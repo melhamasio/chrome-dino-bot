@@ -11,9 +11,11 @@ de forma independente.
   - [Pontos a serem explorados](#pontos-a-serem-explorados)
 
 ## Pré-Requisitos
-
+    
+    - python3 ou superior
     - lib pyautogui
     - lib time
+
 
 ## Pontos a serem explorados
 
